@@ -38,8 +38,7 @@ The reason I started using Fedora was because my laptop(ROG Zephyrus G14) had be
 ![ScreenShot](/Images/file6.png)
 - And then select your desired options to assign a partition to Fedora
 ![ScreenShot](/Images/file7.png)
-<<<<<<< HEAD
-=======
+
 - Set the mountpoint as '/' in one of the formatted partitions to put the root directory into the partition.
 ![ScreenShot](/Images/file8.png)
 - Enable the root account to access root permissions for installing apps
@@ -53,4 +52,3 @@ The reason I started using Fedora was because my laptop(ROG Zephyrus G14) had be
 - They need to be enabled by the user as these apps are available in the RPMFusion repos.
 - RPM Fusion is a repository for add-on packages for Fedora. It is not a standalone repo but an extension of Fedora
 - For installation of these repos, refer to https://rpmfusion.org/Configuration
->>>>>>> d86f5f8 (Added the RPMFusion section and finished the installation section)
