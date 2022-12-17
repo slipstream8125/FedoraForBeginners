@@ -1,4 +1,4 @@
-![[file1.png]]## Pros
+## Pros
 - Fedora is a bleeding edge distro like Arch. This means that it has the latest kernel and software is available in the distro.
 - However, unlike Arch, Fedora tends to be on the more stable side which makes it more viable as a daily driver.
 - This can be particularly useful in the case of newer devices like laptops which often have newer or proprietary drivers and end up needing newer kernels.
