@@ -1,4 +1,4 @@
-## Pros
+![[file1.png]]## Pros
 - Fedora is a bleeding edge distro like Arch. This means that it has the latest kernel and software is available in the distro.
 - However, unlike Arch, Fedora tends to be on the more stable side which makes it more viable as a daily driver.
 - This can be particularly useful in the case of newer devices like laptops which often have newer or proprietary drivers and end up needing newer kernels.
@@ -21,11 +21,9 @@ The reason I started using Fedora was because my laptop(ROG Zephyrus G14) had be
 - Boot into the BIOS and disable secure boot
 - Select your USB drive as the device to boot into
 - You can also choose to test Fedora before installing it
-![ScreenShot](Images/VirtualBox_Fedora_17_12_2022_17_30_14.png)
+![[file2.png]]
+
 - Click on Install Fedora when you want to install it
-
-![ScreenShot](/Images/'VirtualBox_Fedora_17_12_2022_17_33_51 1.png')
+![[file1.png]]
 - Follow the instructions given in the software and install Fedora
-
-![ScreenShot](/Images/'Pasted image 20221217174215.png')
-
+![[file3.png]]
