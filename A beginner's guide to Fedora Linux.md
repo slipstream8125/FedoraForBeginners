@@ -23,7 +23,9 @@ The reason I started using Fedora was because my laptop(ROG Zephyrus G14) had be
 - You can also choose to test Fedora before installing it
 ![ScreenShot](Images/VirtualBox_Fedora_17_12_2022_17_30_14.png)
 - Click on Install Fedora when you want to install it
-![ScreenShot](Images/'VirtualBox_Fedora_17_12_2022_17_33_51 1.png')
+
+![ScreenShot](/Images/'VirtualBox_Fedora_17_12_2022_17_33_51 1.png')
 - Follow the instructions given in the software and install Fedora
-![ScreenShot](Images/'Pasted image 20221217174215.png')
+
+![ScreenShot](/Images/'Pasted image 20221217174215.png')
 
