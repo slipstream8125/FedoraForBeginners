@@ -24,7 +24,7 @@ The reason I started using Fedora was because my laptop(ROG Zephyrus G14) had be
 
 - Download Fedora from https://getfedora.org/.
 - If you want to use any other DE than GNOME, download Fedora with your favourite DE from https://spins.fedoraproject.org/.
-- Write the ISO image to a USB drive using a software like Rufus(if you are on WIndows) or BalenaEtcher(works on Mac,Windows and Linux)
+- Write the ISO image to a USB drive using a software like <a href="https://rufus.ie/en/">Rufus</a>(if you are on WIndows) or <a href="https://github.com/balena-io/etcher/releases/tag/v1.10.6">BalenaEtcher</a>(works on Mac,Windows and Linux)
 - Boot into the BIOS and disable secure boot
 - Select your USB drive as the device to boot into
 - You can also choose to test Fedora before installing it
