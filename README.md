@@ -34,3 +34,7 @@ The reason I started using Fedora was because my laptop(ROG Zephyrus G14) had be
 ![ScreenShot](/Images/file1.png)
 - Follow the instructions given in the software and install Fedora
 ![ScreenShot](/Images/file3.png)
+- If you want to dualboot Fedora with Windows or some other OS, you can click on "Advanced Custom(Blivet GUI)"
+![ScreenShot](/Images/file6.png)
+- And then select your desired options to assign a partition to Fedora
+![ScreenShot](/Images/file7.png)
