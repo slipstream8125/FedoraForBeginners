@@ -21,6 +21,7 @@
 The reason I started using Fedora was because my laptop(ROG Zephyrus G14) had better support for its drivers and asusctl(a module to access power profiles,keyboard led,etc in Linux) had better support for Fedora than Ubuntu and Pop!\_OS.
 
 # Installation Procedure
+
 - Download Fedora from https://getfedora.org/.
 - If you want to use any other DE than GNOME, download Fedora with your favourite DE from https://getfedora.org/.
 - Write the ISO image to a USB drive using a software like Rufus(if you are on WIndows) or BalenaEtcher(works on Mac,Windows and Linux)
