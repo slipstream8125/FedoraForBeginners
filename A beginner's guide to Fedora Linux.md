@@ -24,6 +24,6 @@ The reason I started using Fedora was because my laptop(ROG Zephyrus G14) had be
 ![ScreenShot](/Images/file2.png)
 
 - Click on Install Fedora when you want to install it
-![ScreenShot](file1.png)
+![ScreenShot](/Images/file1.png)
 - Follow the instructions given in the software and install Fedora
-![ScreenShot][file3.png]
+![ScreenShot](/Images/file3.png)
