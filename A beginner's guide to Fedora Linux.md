@@ -21,9 +21,9 @@ The reason I started using Fedora was because my laptop(ROG Zephyrus G14) had be
 - Boot into the BIOS and disable secure boot
 - Select your USB drive as the device to boot into
 - You can also choose to test Fedora before installing it
-![[file2.png]]
+![ScreenShot](/Images/file2.png)
 
 - Click on Install Fedora when you want to install it
-![[file1.png]]
+![ScreenShot](file1.png)
 - Follow the instructions given in the software and install Fedora
-![[file3.png]]
+![ScreenShot][file3.png]
