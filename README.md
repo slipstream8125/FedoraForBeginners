@@ -6,7 +6,7 @@
 - However, unlike Arch, Fedora tends to be on the more stable side which makes it more viable as a daily driver.
 - This can be particularly useful in the case of newer devices like laptops which often have newer or proprietary drivers and end up needing newer kernels.
 - Fedora comes with GNOME as its default DE which is beginner-friendly. However, if the user doesn't like GNOME, they can always install Fedora with their preferred DE using Fedora Spins
- (https://spins.fedoraproject.org/).
+ (\https://spins.fedoraproject.org/).
 
 ## Cons
 
