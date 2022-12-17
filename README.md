@@ -6,7 +6,7 @@
 - However, unlike Arch, Fedora tends to be on the more stable side which makes it more viable as a daily driver.
 - This can be particularly useful in the case of newer devices like laptops which often have newer or proprietary drivers and end up needing newer kernels.
 - Fedora comes with GNOME as its default DE which is beginner-friendly. However, if the user doesn't like GNOME, they can always install Fedora with their preferred DE using Fedora Spins
- ('https://spins.fedoraproject.org/').
+ (https://spins.fedoraproject.org/).
 
 ## Cons
 
@@ -23,7 +23,7 @@ The reason I started using Fedora was because my laptop(ROG Zephyrus G14) had be
 # Installation Procedure
 
 - Download Fedora from https://getfedora.org/.
-- If you want to use any other DE than GNOME, download Fedora with your favourite DE from https://getfedora.org/.
+- If you want to use any other DE than GNOME, download Fedora with your favourite DE from https://spins.fedoraproject.org/.
 - Write the ISO image to a USB drive using a software like Rufus(if you are on WIndows) or BalenaEtcher(works on Mac,Windows and Linux)
 - Boot into the BIOS and disable secure boot
 - Select your USB drive as the device to boot into
